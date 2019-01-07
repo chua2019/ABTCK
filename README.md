@@ -5,7 +5,7 @@ Augmented Bayesian treed co-kriging
 
 ## MIT License
 
-Copyright (C) 2019 Bledar Alexandros Konomi and Georgios karagiannis 
+Copyright (C) 2019 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
